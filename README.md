@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @modsz3
 - 👀 I’m interested in developing minecraft plugins/skripts
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on simple plugins
+- and front end development. HTML and CSS.
+- 🌱 I’m currently learning java, HTML, and front end development
+- 💞️ I’m looking to collaborate on simple development work
 - 📫 How to reach me swiftduayn@gmail.com
 dave@affiliatemodshop.com
 <!---
