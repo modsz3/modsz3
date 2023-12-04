@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+    <style>
+        /* Add styles here */
+        body {
+            background: linear-gradient(to right, #004080, #ff6600);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Add more styles as needed */
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="store">Store</a></li>
+                <li><a href="vote">Vote</a></li>
+                <li><a href="wiki">Wiki</a></li>
+                <li><a href="suggestions">Suggestions</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="forum">Forum</a>
+                        <a href="members">Members</a>
+                        <a href="team">Team</a>
+                        <a href="infractions">Infractions Appeal</a>
+                        <a href="applications">Applications</a>
+                        <a href="map">Map</a>
+                    </div>
+                </li>
+            </ul>
+            <button>Login</button>
+            <button>Register</button>
+        </nav>
+        <div id="header-image">
+            <!-- Add header image or use CSS for background -->
+        </div>
+    </header>
+
+    <div id="banner">
+        <!-- Banner content goes here -->
+    </div>
+
+    <div id="body">
+        <p>Welcome to our website!</p>
+        <!-- Body content goes here -->
+        <div id="widgets">
+            <div class="widget-box">
+                <!-- Online Staff count -->
+            </div>
+            <div class="widget-box">
+                <!-- Online Players count -->
+            </div>
+            <div class="widget-box">
+                <!-- Total threads, posts, users -->
+            </div>
+            <div class="widget-box">
+                <!-- Latest registered player -->
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-box">
+            <p>Website Name</p>
+        </div>
+        <div class="footer-box">
+            <a href="privacy-policy">Privacy Policy</a>
+            <a href="terms-and-conditions">Terms and Conditions</a>
+        </div>
+        <div class="footer-box">
+            <!-- Social options for Twitter, Facebook, YouTube -->
+        </div>
+    </footer>
+</body>
+
+</html>
